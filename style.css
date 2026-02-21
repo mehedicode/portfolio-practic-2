@@ -28,6 +28,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-top: 50px;
 }
 nav #logo h2{
     color: #181818;
